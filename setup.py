@@ -5,7 +5,7 @@
 from setuptools import setup
 import ja_itaiji
 
-DESCRIPTION = "ja-itaiji: handling itaiji kanji"
+DESCRIPTION = "ja-itaiji: handling Japanese 異体字 (itaiji), which are variant forms of kanji characters"
 NAME = 'ja-itaiji'
 AUTHOR = 'Ryuji Chiba'
 AUTHOR_EMAIL = 'manchuria.museum@gmail.com'
