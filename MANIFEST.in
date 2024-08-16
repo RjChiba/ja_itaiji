@@ -1,3 +1,2 @@
 include LICENSE
-recursive-include ja_itaiji/data *
-exclude README.md
+recursive-include ja_itaiji/data * 
